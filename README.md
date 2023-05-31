@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @yicixin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">Hi there, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
+  
+🔫 Here are some fun facts about me:
+
+- A post-85s, but I'm still a cool guy, loving and enjoying coding!
+
+- super fans of Go language.
+
+- Use Go language in my career, about two years🤣.
+
+- 😍 Love programming, Go & Rust & Python.
 
 <!---
 yicixin/yicixin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
