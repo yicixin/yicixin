@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm developer, so I'm living in ⛲️https://im.dev 🌲  </h3>
+<h3 align="center">Hi there, I'm ivan, a developer  </h3>
   
 🔫 Here are some fun facts about me:
 
