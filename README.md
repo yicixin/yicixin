@@ -2,8 +2,6 @@
   
 🔫 Here are some fun facts about me:
 
-- A post-85s, but I'm still a cool guy, loving and enjoying coding!
-
 - super fans of Go language.
 
 - Use Go language in my career, about two years🤣.
