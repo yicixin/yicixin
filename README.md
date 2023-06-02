@@ -18,7 +18,6 @@
 - 😍 Love programming, Go & Rust & Python.
 
 <br />
-<br />
 
 ![](https://raw.githubusercontent.com/yicixin/yicixin/main/profile-summary-card-output/github_dark/3-stats.svg)
 <!---
