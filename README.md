@@ -3,6 +3,8 @@
 <p align="middle">
   <a href="https://www.zhihu.com/people/cheng-yi-fan-42" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fcheng-yi-fan-42&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&cacheSeconds=3600)](https://www.zhihu.com/people/cheng-yi-fan-42" alt="Zhihu"></a>
   <a href="https://github.com/yicixin" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fyicixin&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&cacheSeconds=3600"></a>
+<a href="mailto:1202yicixin@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=email&color=blue&logo=Gmail"></a>  
+  
 </p>
 
 
